@@ -11,8 +11,8 @@ I present several interesting links and sources here. Some of them are advanced 
 
 # 动力系统与非线性科学
 
-*[KAM定理高级科普和证明概要](https://chaoli.club/index.php/7127)
-*[利用Logistic Map做到单参数拟合任意散点图（一个参数画大象）](https://aip.scitation.org/doi/10.1063/1.5031956)
+- [KAM定理高级科普和证明概要](https://chaoli.club/index.php/7127)
+- [利用Logistic Map做到单参数拟合任意散点图（一个参数画大象）](https://aip.scitation.org/doi/10.1063/1.5031956)
 
 
 
