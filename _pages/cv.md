@@ -30,4 +30,4 @@ Publications
   
 Service and leadership
 ======
-
+None
