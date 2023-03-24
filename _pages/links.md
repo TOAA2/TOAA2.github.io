@@ -5,7 +5,7 @@ permalink: /links/
 author_profile: true
 ---
 
-I present several interesting links and sources here. Some of them are advanced scientific popularization, some are serious introducation. Enjoy!
+I present several interesting links and sources here. Some of them are advanced scientific popularization articles, some are serious introductions. Enjoy!
 
 
 
