@@ -24,7 +24,7 @@ I present several interesting links and sources here. Some of them are advanced 
 
 ## Gauge Theory
 
-- [Weinberg-Witten Theorem](https://www.researchgate.net/publication/227727891_The_Weinberg-Wirten_theorem_on_massless_particles_An_essay)[The Wikipedia page on the WW theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem) is also helpful. Some discussions are presented in *Quantum Field Theory and the Standard Model by Matthew D. Schwartz*.
+- [Weinberg-Witten Theorem](https://www.researchgate.net/publication/227727891_The_Weinberg-Wirten_theorem_on_massless_particles_An_essay) I found [The Wikipedia page on the WW theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem) is also helpful. Some discussions are presented in *Quantum Field Theory and the Standard Model by Matthew D. Schwartz*.
 
 ## Textbooks
 
