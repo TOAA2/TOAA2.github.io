@@ -19,7 +19,7 @@ I present several interesting links and sources here. Some of them are advanced 
 
 ## Effective Field Theory
 
-- [Course on EFT by Iain Stewart](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm)Lecture notes can be downloaded on [Stewart's personal webpage](http://www2.lns.mit.edu/~iains/Home/Homepage.html)
+- [Course on EFT by Iain Stewart](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm) Lecture notes can be downloaded on [Stewart's personal webpage](http://www2.lns.mit.edu/~iains/Home/Homepage.html)
 - [A concise introduction to EFT](https://arxiv.org/abs/2006.16285)
 
 ## Gauge Theory
