@@ -26,6 +26,12 @@ I present several interesting links and sources here. Some of them are advanced 
 
 - [Weinberg-Witten Theorem](https://www.researchgate.net/publication/227727891_The_Weinberg-Wirten_theorem_on_massless_particles_An_essay) I found [The Wikipedia page on the WW theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem) is also helpful. Some discussions are presented in *Quantum Field Theory and the Standard Model by Matthew D. Schwartz*.
 
+
+## Lattice Gauge Theory
+
+- [Tom DeGrand's TASI lectures on lattice method](https://sites.google.com/a/colorado.edu/tasi-2019-wiki/lecture-topics/introduction-to-lattice-methods) provides a concise introduction to lattice theory. [Lectures on Gauge Theory by David Tong](https://www.damtp.cam.ac.uk/user/tong/gaugetheory.html) are helpful as well. Especially, Tong paid particular attention to fermions on the lattice and the Nielson-Ninomiya Theorem.
+- [The references part of the wikipedia page for Nielson-Ninomiya Theorem](https://en.wikipedia.org/wiki/Nielsen%E2%80%93Ninomiya_theorem#References) lists almost all the useful discussions about the NN no-go theorem I found.
+
 ## Textbooks
 
 - ***Lectures of Sidney Coleman on Quantum Field Theory*** Truly the first textbook on quantum field theory! Coleman provides an in-depth explanation of the basics of quantum field theory. But the second half of the book is a little stale, especially when it focuses on current algebra, which may be only historically interesting. Many fundamental topics are not covered, such as EFT.
