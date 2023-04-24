@@ -46,7 +46,7 @@ I present several interesting links and sources here. Some of them are advanced 
 
 ## Diffusion Model
 
-- [This blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) provides a clear introduction to the diffusion model (DDPM). As a student with Physics background, I enjoy a lot. [A Chinese version](https://zhuanlan.zhihu.com/p/530602852)
+- [This blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) provides a clear introduction to the diffusion model (DDPM). As a student with Physics background, I enjoy a lot. [A Chinese version](https://zhuanlan.zhihu.com/p/530602852) [Another introduction in Chinese](https://zhuanlan.zhihu.com/p/571366616)
 - [Yang Song's paper](https://arxiv.org/abs/2011.13456) relates DDPM to the Langevin dynamics. That's interesting and inspiring if you are wondering the origin of human mind.
 
 
