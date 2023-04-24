@@ -42,6 +42,13 @@ I present several interesting links and sources here. Some of them are advanced 
 - ***[Lecture notes on Gauge Theory by David Tong](http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html)*** Textbook-level topics on gauge theory in a relatively modern view.
 
 
+# About Machine Learning
+
+## Diffusion Model
+
+- [This blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) provides a clear introduction to the diffusion model (DDPM). As a student with Physics background, I enjoy a lot. [A Chinese version](https://zhuanlan.zhihu.com/p/530602852)
+- [Yang Song's paper](https://arxiv.org/abs/2011.13456) relates DDPM to the Langevin dynamics. That's interesting and inspiring if you are wondering the origin of human mind.
+
 
 ---
 {% if author.googlescholar %}
