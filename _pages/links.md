@@ -16,11 +16,23 @@ I present several interesting links and sources here. Some of them are advanced 
 
 
 
+
+
+----
+
+
+
 # Computation in QFT
 To compute Feynman integrals is a HARD problem. Its hardness is far beyond tedious. In principle, we are doing a $\infty-\infty=finite$ game to exclude UV and IR physics out of our interest. Besides, we encounter too many Feynman diagrams and too many indices.
 
 ## [CalcLoop](https://gitlab.com/yqma/CalcLoop)
 Based on AMFLow, CalcLoop is a Mathematica Package with the ability to calculate any Feynman integral in principle rather than doing substitution with known formula like many other packages.
+
+
+
+
+
+----
 
 
 
@@ -49,6 +61,13 @@ Based on AMFLow, CalcLoop is a Mathematica Package with the ability to calculate
 - ***The Quantum Theory of Fields by Steven Weinberg*** Deserves its reputation.
 - ***[Notes on QFT by Yuchen Wang](https://zhuanlan.zhihu.com/p/391450897)*** Basics of QFT in the view of an excellent student. In Chinese!
 - ***[Lecture notes on Gauge Theory by David Tong](http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html)*** Textbook-level topics on gauge theory in a relatively modern view.
+
+
+
+
+
+----
+
 
 
 # About Machine Learning
